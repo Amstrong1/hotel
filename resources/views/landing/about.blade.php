@@ -34,10 +34,10 @@
             class="flex flex-wrap justify-between items-center mx-auto 2xl:max-w-[1320px] xl:max-w-[1140px] lg:max-w-[960px] md:max-w-[720px] sm:max-w-[540px]">
             <div class="flex flex-wrap mb-[-24px]">
                 <div class="lg:w-1/2 w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="2000">
-                    <div
-                        class="before:bg-[url('assets/img/theme/1.png')] bg-size-full dark-opicity-5 before:absolute before:z-[-1] 2xl:before:w-[150px] before:w-[120px] 2xl:before:h-[150px] before:h-[120px] before:top-0 2xl:before:left-[-150px] before:left-[-130px]">
-                    </div>
-                    <img src="assets/img/about/about-page-1.png" alt="about-page-1" class="w-100">
+                    <iframe width="426.5" height="240" src="https://www.youtube.com/embed/mgJUrLzqCXg"
+                        title="HÔTEL COSMA À PARAKOU : Votre havre de bonheur vous attend." frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
                 </div>
                 <div class="lg:w-1/2 w-full px-[12px] mb-[24px]" data-aos="fade-up" data-aos-duration="2000">
                     <div class="h-full flex flex-col justify-center">
@@ -71,7 +71,9 @@
                                     <i class="ri-arrow-right-up-line mr-[5px] text-[18px] rotate-[-42deg]"></i>Notre
                                     Vision
                                 </h4>
-                                <p>"Notre vision est de devenir l'ultime destination où chaque client se sent accueilli, choyé et inspiré à chaque séjour, créant ainsi des souvenirs inoubliables et fidélisant une clientèle éprise d'excellence."</p>
+                                <p>"Notre vision est de devenir l'ultime destination où chaque client se sent accueilli,
+                                    choyé et inspiré à chaque séjour, créant ainsi des souvenirs inoubliables et
+                                    fidélisant une clientèle éprise d'excellence."</p>
                             </div>
                         </div>
                         <div class="text-[18px] font-medium">
