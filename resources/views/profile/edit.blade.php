@@ -21,7 +21,17 @@
 
             <div class="p-4 sm:p-8 bg-white shadow sm:rounded-lg">
                 <div class="max-w-xl">
-                    @include('profile.partials.delete-user-form')
+                    {{-- @include('profile.partials.delete-user-form') --}}
+                    <x-danger-button>
+                        <form method="POST" action="{{ route('logout') }}">
+                            @csrf
+                            <x-dropdown-link class="text-white" :href="route('logout')"
+                                onclick="event.preventDefault();
+                                                    this.closest('form').submit();">
+                                {{ __('Se déconnecter') }}
+                            </x-dropdown-link>
+                        </form>
+                    </x-danger-button>
                 </div>
             </div>
         </div>

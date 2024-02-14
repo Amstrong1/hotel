@@ -8,15 +8,15 @@
     <div class="bg-white py-4">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
+                <div class="p-6 text-gray-900">
 
                     <div class="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-4 2xl:gap-8">
                         <!-- Card Item Start -->
                         <div
-                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default dark:border-strokedark dark:bg-gray-800">
+                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default">
                             <div class="mt-4 flex items-end justify-between">
                                 <div>
-                                    <h4 class="text-title-md font-bold text-black">
+                                    <h4 class="text-title-md font-bold">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                                             class="w-6 h-6">
                                             <path
@@ -37,10 +37,10 @@
 
                         <!-- Card Item Start -->
                         <div
-                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default dark:border-strokedark dark:bg-gray-800">
+                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default">
                             <div class="mt-4 flex items-end justify-between">
                                 <div>
-                                    <h4 class="text-title-md font-bold text-black">
+                                    <h4 class="text-title-md font-bold">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                                             class="w-6 h-6">
                                             <path fill-rule="evenodd"
@@ -63,10 +63,10 @@
 
                         <!-- Card Item Start -->
                         <div
-                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default dark:border-strokedark dark:bg-gray-800">
+                            class="rounded-sm border border-stroke bg-white py-6 px-8 shadow-default">
                             <div class="mt-4 flex items-end justify-between">
                                 <div>
-                                    <h4 class="text-title-md font-bold text-black">
+                                    <h4 class="text-title-md font-bold">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                                             class="w-6 h-6">
                                             <path fill-rule="evenodd"

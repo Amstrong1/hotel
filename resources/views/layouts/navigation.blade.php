@@ -1,4 +1,4 @@
-<nav x-data="{ open: false }" class="border-b border-gray-100 bg-white">
+<nav x-data="{ open: false }" class="border-b border-gray-100 bg-[#ed5b31]">
     <!-- Primary Navigation Menu -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-20">
@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <x-application-logo class="block sm:h-12 h-9 fill-current text-gray-800" />
+                        <x-application-logo class="block sm:h-12 h-9 fill-current" />
                     </a>
                 </div>
             </div>
@@ -14,9 +14,9 @@
             <div class="-me-2 flex items-center">
                 <x-dropdown align="right" width="48">
                     <x-slot name="trigger">
-                        <button class="inline-flex items-center justify-center mx-2 p-2 rounded-md text-black">
+                        <button class="inline-flex items-center justify-center mx-2 p-2 rounded-md text-white">
                             <div>
-                                <a class="hidden-arrow mr-4 flex items-center text-black transition duration-200 hover:text-black hover:ease-in-out focus:text-black disabled:text-black/30 motion-reduce:transition-none dark:text-black dark:hover:text-black dark:focus:text-black [&.active]:text-black/90 dark:[&.active]:text-black"
+                                <a class="hidden-arrow mr-4 flex items-center text-white transition duration-200 hover:text-white hover:ease-in-out focus:text-white disabled:text-white/30 motion-reduce:transition-none"
                                     href="#" id="dropdownMenuButton1" role="button" data-te-dropdown-toggle-ref
                                     aria-expanded="false">
                                     <!-- Dropdown trigger icon -->
@@ -29,7 +29,7 @@
                                     </span>
                                     <!-- Notification counter -->
                                     <span
-                                        class="absolute -mt-6 ml-4 rounded-full bg-danger px-1 py-[0.15rem] text-xs font-bold leading-none text-black">
+                                        class="absolute -mt-6 ml-4 rounded-full bg-danger px-1 py-[0.15rem] text-xs font-bold leading-none text-white">
                                         {{ Auth::user()->unreadNotifications->count() }}
                                     </span>
                                 </a>
@@ -83,7 +83,7 @@
                     @if (auth()->user()->admin == true)
                         <!-- Portefeuille -->
                         <a href="#">
-                            <button class="inline-flex items-center justify-center p-2 rounded-md text-black">
+                            <button class="inline-flex items-center justify-center p-2 rounded-md text-white">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -93,7 +93,7 @@
                         </a>
 
                         <a href="{{ route('admin.dashboard') }}">
-                            <button class="inline-flex items-center justify-center p-2 rounded-md text-black">
+                            <button class="inline-flex items-center justify-center p-2 rounded-md text-white">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -107,7 +107,7 @@
                 @endauth
 
                 <a href="{{ route('profile.edit') }}">
-                    <button class="inline-flex items-center justify-center p-2 rounded-md text-black">
+                    <button class="inline-flex items-center justify-center p-2 rounded-md text-white">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                             class="w-6 h-6 block mx-auto">
                             <path fill-rule="evenodd"

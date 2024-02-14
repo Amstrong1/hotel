@@ -1,5 +1,4 @@
-<section id="bottom-navigation" class="py-4 block fixed inset-x-0 bottom-0 z-10 shadow"
-    style="background-color: rgba(63, 38, 57, 1)">
+<section id="bottom-navigation" class="py-4 block fixed inset-x-0 bottom-0 z-10 shadow bg-[#ed5b31]">
     <div id="tabs" class="flex justify-between">
 
         <a href="{{ route('room.index') }}" class="w-full text-white justify-center inline-block text-center pt-2 pb-1">
