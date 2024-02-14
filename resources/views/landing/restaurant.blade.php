@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-landing-layout>
     <!-- Banner -->
     <section class="section-banner">
         <div
@@ -79,9 +79,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Mustrd
-                                        Chicken with <span class="text-[#ed5b31]">$60</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken <span class="text-[#ed5b31]">FCFA 6000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex lg:py-[30px] pt-[30px] pb-[0] lg:border-b-[1px] border-solid border-[#e3e1e1] border-[0]"
@@ -93,9 +92,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Pan Con Berenjina Frita <span class="text-[#ed5b31]">$30</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Pan Con Berenjina Frita <span class="text-[#ed5b31]">FCFA 3000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]" data-aos="fade-up" data-aos-duration="2100">
@@ -106,9 +104,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Salmon Tataki Capaccio <span class="text-[#ed5b31]">$45</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Salmon Tataki Capaccio <span class="text-[#ed5b31]">FCFA 4500</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -123,10 +120,9 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Lubina
-                                        Marinada <span class="text-[#ed5b31]">$15</span>
+                                        Marinada <span class="text-[#ed5b31]">FCFA 1500</span>
                                     </h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex lg:py-[30px] pt-[30px] pb-[0] lg:border-b-[1px] border-solid border-[#e3e1e1] border-[0]"
@@ -138,10 +134,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Nashville Hot Chicken <span class="text-[#ed5b31]">$30</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Nashville Hot Chicken <span class="text-[#ed5b31]">FCFA 3000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]" data-aos="fade-up" data-aos-duration="2100">
@@ -152,10 +146,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Biscuits and Gravy <span class="text-[#ed5b31]">$55</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Biscuits and Gravy <span class="text-[#ed5b31]">FCFA 5500</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -174,9 +166,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Mustrd
-                                        Chicken with <span class="text-[#ed5b31]">$50</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken <span class="text-[#ed5b31]">FCFA 5000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -189,9 +180,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Pan Con
-                                        Berenjina Frita <span class="text-[#ed5b31]">$80</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Berenjina Frita <span class="text-[#ed5b31]">FCFA 8000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -203,10 +193,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Salmon
-                                        Tataki Capaccio <span class="text-[#ed5b31]">$40</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Tataki Capaccio <span class="text-[#ed5b31]">FCFA 4000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis..</p>
                                 </div>
                             </div>
                         </div>
@@ -222,10 +210,9 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Lubina
                                         Marinada
-                                        <span class="text-[#ed5b31]">$60</span>
+                                        <span class="text-[#ed5b31]">FCFA 6000</span>
                                     </h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -237,9 +224,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Nashville Hot Chicken <span class="text-[#ed5b31]">$70</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Nashville Hot Chicken <span class="text-[#ed5b31]">FCFA 7000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -250,9 +236,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Biscuits and Gravy <span class="text-[#ed5b31]">$90</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Biscuits and Gravy <span class="text-[#ed5b31]">FCFA 9000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -271,9 +256,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Mustrd
-                                        Chicken with <span class="text-[#ed5b31]">$10</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken <span class="text-[#ed5b31]">FCFA 1000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -287,10 +271,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Pan Con
                                         Berenjina
-                                        Frita <span class="text-[#ed5b31]">$50</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Frita <span class="text-[#ed5b31]">FCFA 5000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -302,10 +284,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Salmon
-                                        Tataki Capaccio <span class="text-[#ed5b31]">$70</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Tataki Capaccio <span class="text-[#ed5b31]">FCFA 7000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -320,11 +300,9 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Lubina
-                                        Marinada <span class="text-[#ed5b31]">$40</span>
+                                        Marinada <span class="text-[#ed5b31]">FCFA 4000</span>
                                     </h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -336,10 +314,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Nashville Hot Chicken <span class="text-[#ed5b31]">$60</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Nashville Hot Chicken <span class="text-[#ed5b31]">FCFA 6000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -350,10 +326,8 @@
                                 <div class="sm:pl-[24px] pl-[12px]">
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
-                                        Biscuits and Gravy <span class="text-[#ed5b31]">$70</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Biscuits and Gravy <span class="text-[#ed5b31]">FCFA 7000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis..</p>
                                 </div>
                             </div>
                         </div>
@@ -372,10 +346,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Mustrd
-                                        Chicken with <span class="text-[#ed5b31]">$70</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken with <span class="text-[#ed5b31]">FCFA 7000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -389,10 +361,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Pan Con
                                         Berenjina
-                                        Frita <span class="text-[#ed5b31]">$50</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Frita <span class="text-[#ed5b31]">FCFA 5000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -405,10 +375,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Salmon
                                         Tataki
-                                        Capaccio <span class="text-[#ed5b31]">$20</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Capaccio <span class="text-[#ed5b31]">FCFA 2000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -424,11 +392,9 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Lubina
                                         Marinada
-                                        <span class="text-[#ed5b31]">$60</span>
+                                        <span class="text-[#ed5b31]">FCFA 6000</span>
                                     </h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -441,10 +407,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Nashville Hot
-                                        Chicken <span class="text-[#ed5b31]">$40</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken <span class="text-[#ed5b31]">FCFA 40</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis..</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -456,10 +420,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Biscuits and
-                                        Gravy <span class="text-[#ed5b31]">$80</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Gravy <span class="text-[#ed5b31]">FCFA 8000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -479,10 +441,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Mustrd
                                         Chicken
-                                        with <span class="text-[#ed5b31]">$70</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        <span class="text-[#ed5b31]">FCFA 7000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -496,10 +456,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Pan Con
                                         Berenjina
-                                        Frita <span class="text-[#ed5b31]">$65</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Frita <span class="text-[#ed5b31]">FCFA 6500</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -512,10 +470,8 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Salmon
                                         Tataki
-                                        Capaccio <span class="text-[#ed5b31]">$55</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Capaccio <span class="text-[#ed5b31]">FCFA 5500</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -531,11 +487,9 @@
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Lubina
                                         Marinada
-                                        <span class="text-[#ed5b31]">$50</span>
+                                        <span class="text-[#ed5b31]">FCFA 5000</span>
                                     </h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div
@@ -548,10 +502,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Nashville Hot
-                                        Chicken <span class="text-[#ed5b31]">$10</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Chicken <span class="text-[#ed5b31]">FCFA 1000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                             <div class="flex pt-[30px]">
@@ -563,10 +515,8 @@
                                     <h4
                                         class="mb-[12px] flex sm:justify-between sm:flex-row flex-col text-[18px] font-bold text-[#000]">
                                         Biscuits and
-                                        Gravy <span class="text-[#ed5b31]">$90</span></h4>
-                                    <p class="text-[14px] leading-[22px]">This is the dolor sit amet consectetur
-                                        adipisicing elit. Id non
-                                        namsequicum voluptatum soluta sed placeat.</p>
+                                        Gravy <span class="text-[#ed5b31]">FCFA 9000</span></h4>
+                                    <p class="text-[14px] leading-[22px]">De délicieuses saveurs locales et des ingrédients frais se marient harmonieusement pour éveiller vos papilles et vous transporter dans un voyage gustatif exquis.</p>
                                 </div>
                             </div>
                         </div>
@@ -612,12 +562,7 @@
                                             </div>
                                             <p
                                                 class="mt-[24px] xl:text-[15px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit,
-                                                voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt
-                                                atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable.!"
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
@@ -660,12 +605,7 @@
                                                 </div>
                                             </div>
                                             <p class="mt-[24px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit,
-                                                voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt
-                                                atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable.!"
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
@@ -708,12 +648,7 @@
                                                 </div>
                                             </div>
                                             <p class="mt-[24px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit,
-                                                voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt
-                                                atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable.!"
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
@@ -750,7 +685,7 @@
             <div class="flex flex-wrap p-0" data-aos="fade-up" data-aos-duration="2000">
                 <div class="lg:w-1/4 md:w-1/2 w-full px-[12px] mb-[24px]">
                     <div class="lh-book-tale-box relative">
-                        <label for="Name" class="text-[#000]">Name*</label>
+                        <label for="Name" class="text-[#000]">Nom*</label>
                         <input id="Name" type="text" name="firstname"
                             class="border-[1px] w-full h-[50px] px-[20px] rounded-[15px] bg-[#f7f5f1] focus:outline-0 border-solid border-[#e3e1e1]">
                         <i
@@ -759,7 +694,7 @@
                 </div>
                 <div class="lg:w-1/4 md:w-1/2 w-full px-[12px] mb-[24px]">
                     <div class="lh-book-tale-box relative">
-                        <label for="Phone" class="text-[#000]">Phone No*</label>
+                        <label for="Phone" class="text-[#000]">Contact*</label>
                         <input id="Phone" type="text" name="number"
                             class="border-[1px] w-full h-[50px] px-[20px] rounded-[15px] bg-[#f7f5f1] focus:outline-0 border-solid border-[#e3e1e1]">
                         <i
@@ -768,7 +703,7 @@
                 </div>
                 <div class="lg:w-1/4 md:w-1/2 w-full px-[12px] mb-[24px]">
                     <div class="lh-book-tale-box relative">
-                        <label for="Gust" class="text-[#000]">No. Of Gust*</label>
+                        <label for="Gust" class="text-[#000]">No. de places*</label>
                         <input id="Gust" type="text" name="gust"
                             class="border-[1px] w-full h-[50px] px-[20px] rounded-[15px] bg-[#f7f5f1] focus:outline-0 border-solid border-[#e3e1e1]">
                         <i
@@ -777,7 +712,7 @@
                 </div>
                 <div class="lg:w-1/4 md:w-1/2 w-full px-[12px] mb-[24px]">
                     <div class="lh-book-tale-box relative">
-                        <label for="Gust" class="text-[#000]">Date & Time*</label>
+                        <label for="Gust" class="text-[#000]">Date & Heure*</label>
                         <div class="calendar" id="date_1">
                             <input id="Gust" type="text"
                                 class="border-[1px] w-full h-[50px] px-[20px] rounded-[15px] bg-[#f7f5f1] focus:outline-0 border-solid border-[#e3e1e1]">
@@ -789,17 +724,16 @@
                 </div>
                 <div class="w-full">
                     <div class="lh-book-tale-contain flex justify-center">
-                        <h6 class="text-[#000] text-[14px] text-center font-Roboto font-semibold leading-[26px]">No
-                            refunds will be given once you booked</h6>
+                        <h6 class="text-[#000] text-[14px] text-center font-Roboto font-semibold leading-[26px]">Aucun remboursement ne sera accordé une fois votre réservation effectuée</h6>
                     </div>
                     <div class="lh-book-tale-buttons flex justify-center pt-[24px]">
                         <a class="duration-[0.3s] ease-in-out border-[1px] border-solid border-[#ed5b31] px-[15px] py-[5px] leading-[28px] bg-[#ed5b31] text-[#fff] relative z-[2] text-[15px] font-medium tracking-[1px] rounded-[10px] hover:bg-inherit hover:text-[#ed5b31]"
                             href="checkout.html">
-                            Book Table
+                            Réservez
                         </a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-</x-app-layout>
+</x-landing-layout>

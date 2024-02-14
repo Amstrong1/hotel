@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-landing-layout>
     <!-- Banner -->
     <section class="section-banner">
         <div
@@ -8,7 +8,7 @@
                 <div class="lh-banner-contain mt-[65px]">
                     <h2
                         class="mb-[12px] 2xl:text-[40px] xl:text-[38px] lg:text-[36px] md:text-[34px] sm:text-[30px] text-[28px] font-bold">
-                        About Us</h2>
+                        A Propos</h2>
                     <div class="lh-bVOIRcrumb">
                         <h5 class="text-[16px]">
                             <span>
@@ -16,7 +16,7 @@
                             </span>
                             <span class="font-bold"> / </span>
                             <span>
-                                <a href="javascript:void(0)" class="text-[#fff] hover:text-[#fff]">About Us</a>
+                                <a href="javascript:void(0)" class="text-[#fff] hover:text-[#fff]">A Propos</a>
                             </span>
                         </h5>
                     </div>
@@ -49,7 +49,11 @@
                         </div>
                         <div class="xl:pb-[24px] pb-[15px] border-b border-solid border-[#e3e1e1]">
                             <p>
-                                Bienvenue à notre hôtel 4 étoiles, un havre de luxe et de confort au cœur de la ville. Notre équipe dévouée est prête à rendre votre séjour inoubliable, en vous offrant un service attentionné et des prestations haut de gamme. Découvrez le raffinement et l'hospitalité distinguée dans notre hôtel 4 étoiles, où chaque détail est conçu pour surpasser vos attentes.
+                                Bienvenue à notre hôtel 4 étoiles, un havre de luxe et de confort au cœur de la ville.
+                                Notre équipe dévouée est prête à rendre votre séjour inoubliable, en vous offrant un
+                                service attentionné et des prestations haut de gamme. Découvrez le raffinement et
+                                l'hospitalité distinguée dans notre hôtel 4 étoiles, où chaque détail est conçu pour
+                                surpasser vos attentes.
                             </p>
                         </div>
                         <div class="flex flex-wrap mb-[-15px] ld-about-rows relative xl:py-[24px] py-[15px]">
@@ -58,16 +62,16 @@
                                     <i class="ri-arrow-right-up-line mr-[5px] text-[18px] rotate-[-42deg]"></i>Notre
                                     Mission
                                 </h4>
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, veritatis est.
-                                    Dicta modi incidunt cupiditate!</p>
+                                <p>"Notre mission est de garantir une expérience client exceptionnelle à chaque séjour,
+                                    en offrant un service personnalisé, des installations impeccables et une atmosphère
+                                    accueillante."</p>
                             </div>
                             <div class="sm:w-1/2 w-full mb-[15px] sm:pl-[12px] pl-[0]">
                                 <h4 class="mb-[12px] text-[#000] text-[18px] font-semibold leading-[1.25]">
                                     <i class="ri-arrow-right-up-line mr-[5px] text-[18px] rotate-[-42deg]"></i>Notre
                                     Vision
                                 </h4>
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia, veritatis est.
-                                    Dicta modi incidunt cupiditate!</p>
+                                <p>"Notre vision est de devenir l'ultime destination où chaque client se sent accueilli, choyé et inspiré à chaque séjour, créant ainsi des souvenirs inoubliables et fidélisant une clientèle éprise d'excellence."</p>
                             </div>
                         </div>
                         <div class="text-[18px] font-medium">
@@ -279,7 +283,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Alisha Scoff</h5>
-                            <p class="text-[14px]">Owner</p>
+                            <p class="text-[14px]">Propriétaire</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -303,7 +307,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Tomas Finn</h5>
-                            <p class="text-[14px]">Manager</p>
+                            <p class="text-[14px]">Directeur</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -327,7 +331,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Alfred Gun</h5>
-                            <p class="text-[14px]">Front Office</p>
+                            <p class="text-[14px]">Réception</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -351,7 +355,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Katty Olson</h5>
-                            <p class="text-[14px]">Supervisor</p>
+                            <p class="text-[14px]">Superviseur</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -374,7 +378,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Tiffany Enifer</h5>
-                            <p class="text-[14px]">Front Office</p>
+                            <p class="text-[14px]">Réception</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -398,7 +402,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Arnold Taylor</h5>
-                            <p class="text-[14px]">Master Chef</p>
+                            <p class="text-[14px]">Chef cuisinier</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -428,7 +432,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Megan Black</h5>
-                            <p class="text-[14px]">Room Cleaner</p>
+                            <p class="text-[14px]">Service de chambre</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -458,7 +462,7 @@
                         </div>
                         <div class="lh-team-contain pt-[15px] relative">
                             <h5 class="mb-[2px] text-[#000] lg:text-[18px] text-[16px] font-bold">Denys Walker</h5>
-                            <p class="text-[14px]">Chef</p>
+                            <p class="text-[14px]">Cuisinier</p>
                             <i
                                 class="ri-arrow-right-line duration-[0.3s] ease-in-out absolute right-0 bottom-0 text-[20px] text-[#000]"></i>
                         </div>
@@ -467,4 +471,4 @@
             </div>
         </div>
     </section>
-</x-app-layout>
+</x-landing-layout>

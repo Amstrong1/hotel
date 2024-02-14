@@ -1,5 +1,4 @@
-<x-app-layout>
-
+<x-landing-layout>
     <!-- Hero -->
     <section class="section-hero lg:pb-[50px] pb-[70px]">
         <div
@@ -60,28 +59,28 @@
                         id="nav-Deluxe-tab" data-bs-toggle="tab" data-bs-target="#nav-Deluxe" type="button"
                         role="tab" aria-controls="nav-Deluxe" aria-selected="true">
                         <img src="assets/img/room/1.png" alt="1" class="w-full mb-[15px] rounded-[15px]">
-                        Deluxe Room
+                        Chambre de luxe
                     </button>
                     <button
                         class="mb-0 text-[20px] leading-[28px] text-[#000] focus:text-[#000] w-1/4 border-0 text-center nav-link"
                         id="nav-Single-tab" data-bs-toggle="tab" data-bs-target="#nav-Single" type="button"
                         role="tab" aria-controls="nav-Single" aria-selected="false">
                         <img src="assets/img/room/2.png" alt="2" class="w-full mb-[15px] rounded-[15px]">
-                        Single Room
+                        Chambre simple
                     </button>
                     <button
                         class="mb-0 text-[20px] leading-[28px] text-[#000] focus:text-[#000] w-1/4 border-0 text-center nav-link"
                         id="nav-Super-tab" data-bs-toggle="tab" data-bs-target="#nav-Super" type="button"
                         role="tab" aria-controls="nav-Super" aria-selected="false">
                         <img src="assets/img/room/3.png" alt="3" class="w-full mb-[15px] rounded-[15px]">
-                        Super Room
+                        Super Chambre
                     </button>
                     <button
                         class="mb-0 text-[20px] leading-[28px] text-[#000] focus:text-[#000] w-1/4 border-0 text-center nav-link"
                         id="nav-Presidential-tab" data-bs-toggle="tab" data-bs-target="#nav-Presidential" type="button"
                         role="tab" aria-controls="nav-Presidential" aria-selected="false">
                         <img src="assets/img/room/4.png" alt="4" class="w-full mb-[15px] rounded-[15px]">
-                        Presidential Room
+                        Salle Présidentielle
                     </button>
                 </div>
             </nav>
@@ -95,48 +94,47 @@
                                 <div class="lh-contain-heading pb-[15px] flex justify-between">
                                     <h4
                                         class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                        Deluxe Room</h4>
+                                        Chambre de luxe</h4>
                                     <div class="lh-room-price">
                                         <h4 class="xl:text-[22px] text-[18px] text-[#ed5b31] font-bold leading-[22px]">
-                                            $30 /<span class="ml-[5px] text-[14px] font-normal text-[#777]">Per
-                                                night</span></h4>
+                                            FCFA 3000 /<span class="ml-[5px] text-[14px] font-normal text-[#777]">Par
+                                                nuit</span></h4>
                                     </div>
                                 </div>
                                 <div class="lh-room-size d-flex flex-wrap">
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1100 sq.ft <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">335 m²<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1 king Bed <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1 très grand lit<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Up to 4 Guest</p>
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Jusqu'à 4 invités</p>
                                 </div>
-                                <p>This is the dolor sit amet consectetur adipisicing elit. Culpa necessitatibus
-                                    consequatur nostrum iure? Similique voluptatibus totam nobis exercitationem
-                                    perferendis id, cupiditate at et praesentium quas? Quae amet, magni suscipit
-                                    sequi.</p>
+                                <p> Plongez dans un lit douillet, drapé de luxueux draps en coton égyptien, et
+                                    laissez-vous emporter par une nuit de sommeil réparateur.</p>
                                 <div
                                     class="lh-main-features border-t border-solid border-[#e3e1e1] pt-[30px] mt-[30px]">
                                     <div class="lh-contain-heading pb-[15px] flex justify-between">
                                         <h4
                                             class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                            Room Features</h4>
+                                            Caractéristiques de la chambre</h4>
                                     </div>
                                     <div class="lh-room-features flex">
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">42 Inch flat screen
-                                                    TV</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">In-room Safe</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Télévision à écran
+                                                    plat 42 pouces</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Coffre-fort dans la
+                                                    chambre</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
                                             </ul>
                                         </div>
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Breakfast</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">complimeatary bottled
-                                                    water</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Petit-déjeuner</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Eau en bouteille
+                                                    gratuite</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -147,7 +145,7 @@
                             <div class="room-img h-full w-full relative">
                                 <img src="assets/img/room/room-1.png" alt="room-img"
                                     class="room-image h-full w-full">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="link w-[200px] h-[200px] absolute bottom-[-200px] right-[-200px] bg-[#000000cc] rounded-[50%]">
                                     <i
                                         class="ri-arrow-right-line absolute bottom-[100px] right-[100px] text-[#fff] text-[25px]"></i>
@@ -164,48 +162,49 @@
                                 <div class="lh-contain-heading pb-[15px] flex justify-between">
                                     <h4
                                         class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                        Single Room</h4>
+                                        Chambre simple</h4>
                                     <div class="lh-room-price">
                                         <h4 class="xl:text-[22px] text-[18px] text-[#ed5b31] font-bold leading-[22px]">
-                                            $40 /<span class="ml-[5px] text-[14px] font-normal text-[#777]">Per
-                                                night</span></h4>
+                                            FCFA 4000 /<span class="ml-[5px] text-[14px] font-normal text-[#777]">Par
+                                                nuit</span></h4>
                                     </div>
                                 </div>
                                 <div class="lh-room-size d-flex flex-wrap">
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1200 sq.ft <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">111 m²<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1 king Bed <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1 très grand lit<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Up to 6 Guest</p>
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Jusqu'à 6 invités</p>
                                 </div>
-                                <p>This is the dolor sit amet consectetur adipisicing elit. Culpa necessitatibus
-                                    consequatur nostrum iure? Similique voluptatibus totam nobis exercitationem
-                                    perferendis id, cupiditate at et praesentium quas? Quae amet, magni suscipit
-                                    sequi.</p>
+                                <p>La chambre est élégamment décorée dans des tons apaisants, créant une ambiance
+                                    chaleureuse et accueillante. Profitez des équipements modernes, tels qu'une
+                                    télévision à écran plat, un accès Wi-Fi gratuit et une salle de bains privative
+                                    équipée d'articles de toilette de qualité.</p>
                                 <div
                                     class="lh-main-features border-t border-solid border-[#e3e1e1] pt-[30px] mt-[30px]">
                                     <div class="lh-contain-heading pb-[15px] flex justify-between">
                                         <h4
                                             class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                            Room Features</h4>
+                                            Caractéristiques de la chambre</h4>
                                     </div>
                                     <div class="lh-room-features flex">
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">42 Inch flat screen
-                                                    TV</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">In-room Safe</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Télévision à écran
+                                                    plat 42 pouces</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Coffre-fort dans la
+                                                    chambre</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
                                             </ul>
                                         </div>
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Breakfast</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">complimeatary bottled
-                                                    water</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Petit-déjeuner</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Eau en bouteille
+                                                    gratuite</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -216,7 +215,7 @@
                             <div class="room-img h-full w-full relative">
                                 <img src="assets/img/room/room-2.png" alt="room-img"
                                     class="room-image h-full w-full">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="link w-[200px] h-[200px] absolute bottom-[-200px] right-[-200px] bg-[#000000cc] rounded-[50%]">
                                     <i
                                         class="ri-arrow-right-line absolute bottom-[100px] right-[100px] text-[#fff] text-[25px]"></i>
@@ -233,51 +232,51 @@
                                 <div class="lh-contain-heading pb-[15px] flex justify-between">
                                     <h4
                                         class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                        Super Room</h4>
+                                        Super Chambre</h4>
                                     <div class="lh-room-price">
                                         <h4 class="xl:text-[22px] text-[18px] text-[#ed5b31] font-bold leading-[22px]">
-                                            $50 /
-                                            <span class="ml-[5px] text-[14px] font-normal text-[#777]">Per night</span>
+                                            FCFA 5000 /
+                                            <span class="ml-[5px] text-[14px] font-normal text-[#777]">Par nuit</span>
                                         </h4>
                                     </div>
                                 </div>
                                 <div class="lh-room-size d-flex flex-wrap">
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1350 sq.ft <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">125 m²<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">2 king Bed <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">2 très grands lits<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Up to 8 Guest</p>
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Jusqu'à 8 invités</p>
                                 </div>
-                                <p>This is the dolor sit amet consectetur adipisicing elit. Culpa necessitatibus
-                                    consequatur nostrum iure? Similique voluptatibus totam nobis exercitationem
-                                    perferendis id, cupiditate at et praesentium quas? Quae amet, magni suscipit
-                                    sequi.</p>
+                                <p>Pour un réveil en douceur, savourez une tasse de café fraîchement préparé tout en
+                                    admirant la vue imprenable depuis votre fenêtre. Que vous voyagiez pour affaires ou
+                                    pour le plaisir, notre chambre d'hôtel est l'endroit idéal pour vous détendre et
+                                    vous ressourcer</p>
                                 <div
                                     class="lh-main-features border-t border-solid border-[#e3e1e1] pt-[30px] mt-[30px]">
                                     <div class="lh-contain-heading pb-[15px] flex justify-between">
                                         <h4
                                             class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                            Room
-                                            Features
+                                            Caractéristiques de la chambre
                                         </h4>
                                     </div>
                                     <div class="lh-room-features flex">
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">42 Inch flat screen
-                                                    TV</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">In-room Safe</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Télévision à écran
+                                                    plat 42 pouces</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Coffre-fort dans la
+                                                    chambre</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
                                             </ul>
                                         </div>
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Breakfast</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">complimeatary bottled
-                                                    water</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Petit-déjeuner</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Eau en bouteille
+                                                    gratuite</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -288,7 +287,7 @@
                             <div class="room-img h-full w-full relative">
                                 <img src="assets/img/room/room-3.png" alt="room-img"
                                     class="room-image h-full w-full">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="link w-[200px] h-[200px] absolute bottom-[-200px] right-[-200px] bg-[#000000cc] rounded-[50%]">
                                     <i
                                         class="ri-arrow-right-line absolute bottom-[100px] right-[100px] text-[#fff] text-[25px]"></i>
@@ -306,51 +305,48 @@
                                 <div class="lh-contain-heading pb-[15px] flex justify-between">
                                     <h4
                                         class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                        Presidential Room</h4>
+                                        Salle Présidentielle</h4>
                                     <div class="lh-room-price">
                                         <h4 class="xl:text-[22px] text-[18px] text-[#ed5b31] font-bold leading-[22px]">
-                                            $100 /
-                                            <span class="ml-[5px] text-[14px] font-normal text-[#777]">Per night</span>
+                                            FCFA 10000 /
+                                            <span class="ml-[5px] text-[14px] font-normal text-[#777]">Par nuit</span>
                                         </h4>
                                     </div>
                                 </div>
                                 <div class="lh-room-size d-flex flex-wrap">
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">1500 sq.ft <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">140 m² <span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">2 king Bed <span
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">2 très grands lits<span
                                             class="px-[15px]">|</span></p>
-                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Up to 8 Guest</p>
+                                    <p class="pb-[15px] text-[14px] text-[#777] leading-[1.2]">Jusqu'à 8 invités</p>
                                 </div>
-                                <p>This is the dolor sit amet consectetur adipisicing elit. Culpa necessitatibus
-                                    consequatur nostrum iure? Similique voluptatibus totam nobis exercitationem
-                                    perferendis id, cupiditate at et praesentium quas? Quae amet, magni suscipit
-                                    sequi.</p>
+                                <p>Plongez dans un lit douillet, drapé de luxueux draps en coton égyptien, et
+                                    laissez-vous emporter par une nuit de sommeil réparateur. La chambre est élégamment
+                                    décorée dans des tons apaisants, créant une ambiance chaleureuse et accueillante.
+                                </p>
                                 <div
                                     class="lh-main-features border-t border-solid border-[#e3e1e1] pt-[30px] mt-[30px]">
                                     <div class="lh-contain-heading pb-[15px] flex justify-between">
                                         <h4
                                             class="xl:text-[22px] text-[18px] leading-[1.2] font-bold text-[#000] text-left">
-                                            Room
-                                            Features
+                                            Caractéristiques de la chambre
                                         </h4>
                                     </div>
                                     <div class="lh-room-features flex">
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">42 Inch flat screen
-                                                    TV</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">In-room Safe</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Télévision à écran plat 42 pouces</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Coffre-fort dans la chambre</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
                                             </ul>
                                         </div>
                                         <div class="lh-cols-room">
                                             <ul class="pl-[16px] mb-0">
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-refrigerator
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Mini-réfrigérateur
                                                 </li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">Breakfast</li>
-                                                <li class="text-[15px] text-[#777] leading-[1.2]">complimeatary bottled
-                                                    water</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Petit-déjeuner</li>
+                                                <li class="text-[15px] text-[#777] leading-[1.2]">Eau en bouteille gratuite</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -361,7 +357,7 @@
                             <div class="room-img h-full w-full relative">
                                 <img src="assets/img/room/room-4.png" alt="room-img"
                                     class="room-image h-full w-full">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="link w-[200px] h-[200px] absolute bottom-[-200px] right-[-200px] bg-[#000000cc] rounded-[50%]">
                                     <i
                                         class="ri-arrow-right-line absolute bottom-[100px] right-[100px] text-[#fff] text-[25px]"></i>
@@ -569,45 +565,45 @@
                                 <h4
                                     class="lh-price-dollar py-[15px] xl:text-[60px] text-[50px] font-bold text-[#ed5b31] leading-[40px]">
                                     <span
-                                        class="xl:text-[35px] xl:align-[18px] text-[20px] align-[20px]">$</span>50<code
+                                        class="xl:text-[25px] xl:align-[18px] text-[14px] align-[20px]">FCFA</span>5000<code
                                         class="xl:text-[16px] text-[14px] text-[#808384] leading-[1.2] font-light tracking-[0.01rem]">
-                                        / Per night</code>
+                                        / Par nuit</code>
                                 </h4>
                                 <h4
                                     class="lh-prices-heading xl:pb-[20px] xl:text-[22px] leading-[1.2] font-bold pb-[15px] text-[18px] text-[#000] m-0">
-                                    Standard Room</h4>
+                                    Chambre standard</h4>
                             </div>
                             <div class="lh-prices-viwe xl:pt-[20px] pt-[15px]">
                                 <ul class="p-0 mb-[16px]">
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Bed & Breakfast</span>
+                                        <span class="xl:text-[15px] text-[14px]">Lit et Petit-déjeuner</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Home Made Food</span>
+                                        <span class="xl:text-[15px] text-[14px]">Nourriture faite maison</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Tour Guide</span>
+                                        <span class="xl:text-[15px] text-[14px]">Guide touristique</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Safety & security</span>
+                                        <span class="xl:text-[15px] text-[14px]">Sécurité sûreté</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Local Heritage</span>
+                                        <span class="xl:text-[15px] text-[14px]">Patrimoine local</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                 </ul>
                             </div>
                             <div class="price-buttons flex">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="duration-[0.3s] ease-in-out border-[1px] border-solid border-[#ed5b31] px-[15px] py-[5px] leading-[28px] bg-[#ed5b31] text-[#fff] relative z-[2] text-[15px] font-medium tracking-[1px] rounded-[10px] hover:bg-inherit hover:text-[#ed5b31]">Reserver
                                     Maintenant</a>
                             </div>
@@ -623,45 +619,45 @@
                                 <h4
                                     class="lh-price-dollar py-[15px] xl:text-[60px] text-[50px] font-bold text-[#ed5b31] leading-[40px]">
                                     <span
-                                        class="xl:text-[35px] xl:align-[18px] text-[20px] align-[20px]">$</span>75<code
+                                        class="xl:text-[25px] xl:align-[18px] text-[14px] align-[20px]">FCFA</span>7500<code
                                         class="xl:text-[16px] text-[14px] text-[#808384] leading-[1.2] font-light tracking-[0.01rem]">
-                                        / Per night</code>
+                                        / Par nuit</code>
                                 </h4>
                                 <h4
                                     class="lh-prices-heading xl:pb-[20px] xl:text-[22px] leading-[1.2] font-bold pb-[15px] text-[18px] text-[#000] m-0">
-                                    Deluxe Room</h4>
+                                    Chambre de luxe</h4>
                             </div>
                             <div class="lh-prices-viwe xl:pt-[20px] pt-[15px]">
                                 <ul class="p-0 mb-[16px]">
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Bed & Breakfast</span>
+                                        <span class="xl:text-[15px] text-[14px]">Lit et Petit-déjeuner</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Home Made Food</span>
+                                        <span class="xl:text-[15px] text-[14px]">Nourriture faite maison</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Tour Guide</span>
+                                        <span class="xl:text-[15px] text-[14px]">Guide touristique</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Safety & security</span>
+                                        <span class="xl:text-[15px] text-[14px]">Guide touristiqueSûreté et sécurité</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Local Heritage</span>
+                                        <span class="xl:text-[15px] text-[14px]">Patrimoine local</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                 </ul>
                             </div>
                             <div class="price-buttons flex">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="duration-[0.3s] ease-in-out border-[1px] border-solid border-[#ed5b31] px-[15px] py-[5px] leading-[28px] bg-inherit text-[#ed5b31] relative z-[2] text-[15px] font-medium tracking-[1px] rounded-[10px] hover:bg-[#ed5b31] hover:text-[#fff]">Reserver
                                     Maintenant</a>
                             </div>
@@ -677,45 +673,45 @@
                                 <h4
                                     class="lh-price-dollar py-[15px] xl:text-[60px] font-bold text-[50px] text-[#ed5b31] leading-[40px]">
                                     <span
-                                        class="xl:text-[35px] xl:align-[18px] text-[20px] align-[20px]">$</span>99<code
+                                        class="xl:text-[25px] xl:align-[18px] text-[14px] align-[20px]">FCFA</span>9900<code
                                         class="xl:text-[16px] text-[14px] text-[#808384] leading-[1.2] font-light tracking-[0.01rem]">
-                                        / Per night</code>
+                                        / Par nuit</code>
                                 </h4>
                                 <h4
                                     class="lh-prices-heading xl:pb-[20px] xl:text-[22px] leading-[1.2] font-bold pb-[15px] text-[18px] text-[#000] m-0">
-                                    Premium Suite</h4>
+                                    Suite Premium</h4>
                             </div>
                             <div class="lh-prices-viwe xl:pt-[20px] pt-[15px]">
                                 <ul class="p-0 mb-[16px]">
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Bed & Breakfast</span>
+                                        <span class="xl:text-[15px] text-[14px]">lit et petit-déjeuner</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Home Made Food</span>
+                                        <span class="xl:text-[15px] text-[14px]">Nourriture faite maison</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Tour Guide</span>
+                                        <span class="xl:text-[15px] text-[14px]">Guide touristique</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Safety & security</span>
+                                        <span class="xl:text-[15px] text-[14px]">Sécurité sûreté</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                     <li class="py-[8px] flex justify-between">
-                                        <span class="xl:text-[15px] text-[14px]">Local Heritage</span>
+                                        <span class="xl:text-[15px] text-[14px]">Patrimoine local</span>
                                         <i
                                             class="ri-arrow-right-line flex justify-end text-[16px] rotate-[-35deg]"></i>
                                     </li>
                                 </ul>
                             </div>
                             <div class="price-buttons flex">
-                                <a href="room-details.html"
+                                <a href="/room-details"
                                     class="duration-[0.3s] ease-in-out border-[1px] border-solid border-[#ed5b31] px-[15px] py-[5px] leading-[28px] bg-[#ed5b31] text-[#fff] relative z-[2] text-[15px] font-medium tracking-[1px] rounded-[10px] hover:bg-inherit hover:text-[#ed5b31]">Reserver
                                     Maintenant</a>
                             </div>
@@ -762,14 +758,11 @@
                                             </div>
                                             <p
                                                 class="mt-[24px] xl:text-[15px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit, voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable."
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
-                                                <span class="text-[#000]">"Amenities At Hotel"</span>
+                                                <span class="text-[#000]">"Équipements de l'hôtel"</span>
                                                 <div class="lh-star">
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
@@ -808,14 +801,11 @@
                                                 </div>
                                             </div>
                                             <p class="mt-[24px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit, voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable.!"
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
-                                                <span class="text-[#000]">"Room Service"</span>
+                                                <span class="text-[#000]">"Service de chambre"</span>
                                                 <div class="lh-star">
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
@@ -854,14 +844,11 @@
                                                 </div>
                                             </div>
                                             <p class="mt-[24px] text-[14px] 2xl:leading-[30px] lending-[26px]">
-                                                "This is the dolor sit amet consectetur adipisicing elit. Cumque
-                                                odit, voluptatum quibusdam fugiat ratione exercitationem, voluptates
-                                                deserunt atque sint veniam sit ducimus optio! Blanditiis earum nesciunt
-                                                exercitationem, animi alias ab!"
+                                                "Mon séjour dans cet hôtel a dépassé toutes mes attentes. Le service impeccable et le confort de la chambre ont contribué à rendre mon voyage vraiment mémorable."
                                             </p>
                                             <div
                                                 class="mt-[24px] bg-[#f7f5f1] p-[15px] rounded-[15px] inline-block flex-col border-[1px] border-solid border-[#e3e1e1]">
-                                                <span class="text-[#000]">"Restaurants Dessert"</span>
+                                                <span class="text-[#000]">"Restaurants Desserts"</span>
                                                 <div class="lh-star">
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
                                                     <i class="ri-star-fill text-[18px] text-[#ffc107]"></i>
@@ -884,4 +871,4 @@
         </div>
     </section>
 
-</x-app-layout>
+</x-landing-layout>

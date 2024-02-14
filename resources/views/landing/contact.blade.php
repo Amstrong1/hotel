@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-landing-layout>
     <!-- Banner -->
     <section class="section-banner">
         <div
@@ -139,4 +139,4 @@
             class="2xl:after:w-[500px] lg:after:w-[400px] dark-opicity-1 after:w-[300px] 2xl:after:h-[500px] xl:after:h-[400px] after:h-[300px] bg-size-full after:absolute 2xl:after:top-[30px] after:top-[20px] after:right-[-180px] after:z-[0] after:bg-[url('assets/img/theme/9.png')]">
         </div>
     </section>
-</x-app-layout>
+</x-landing-layout>
