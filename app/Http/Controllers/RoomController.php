@@ -40,7 +40,7 @@ class RoomController extends Controller
     {
         $room = new Room();
 
-        $fileName = time() . '.' . $request->image->extension();
+        // $fileName = time() . '.' . $request->image->extension();
         // $path = $request->file('image')->storeAs('images', $fileName, 'public');
 
         // $request->image->move(public_path('storage'), $fileName);
@@ -88,10 +88,10 @@ class RoomController extends Controller
     public function update(UpdateRoomRequest $request, Room $room)
     {
         
-        if ($request->file !== null) {
-            $fileName = time() . '.' . $request->image->extension();
-            $path = $request->file('image')->storeAs('images', $fileName, 'public');
-        }
+        // if ($request->file !== null) {
+        //     $fileName = time() . '.' . $request->image->extension();
+        //     $path = $request->file('image')->storeAs('images', $fileName, 'public');
+        // }
 
         $room->name = $request->name;
         $room->price = $request->price;
