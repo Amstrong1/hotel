@@ -129,7 +129,7 @@ class RoomController extends Controller
     private function room_columns()
     {
         $columns = (object) [
-            'image' => '',
+            // 'image' => '',
             'name' => 'Nom',
             'price' => 'Prix',
             'description' => 'Description',
@@ -167,10 +167,10 @@ class RoomController extends Controller
                 'title' => 'Caractéristiques',
                 'field' => 'textarea'
             ],
-            'image' => [
-                'title' => 'Image',
-                'field' => 'file'
-            ]
+            // <!-- 'image' => [
+            //     'title' => 'Image',
+            //     'field' => 'file'
+            // ] -->
         ];
         return $fields;
     }
