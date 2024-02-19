@@ -41,7 +41,7 @@ class RoomController extends Controller
         $room = new Room();
 
         $fileName = time() . '.' . $request->image->extension();
-        $path = $request->file('image')->storeAs('images', $fileName, 'public');
+        // $path = $request->file('image')->storeAs('images', $fileName, 'public');
 
         // $request->image->move(public_path('storage'), $fileName);
 
@@ -49,7 +49,7 @@ class RoomController extends Controller
         $room->price = $request->price;
         $room->description = $request->description;
         $room->features = $request->features;
-        $room->image = $path;
+        // $room->image = $path;
 
         if ($room->save()) {
             Alert::toast("Données enregistrées", 'success');
@@ -98,7 +98,7 @@ class RoomController extends Controller
         $room->description = $request->description;
         $room->features = $request->features;
         if (isset($path)) {
-            $room->image = $path;
+            // $room->image = $path;
         }
 
         if ($room->save()) {
